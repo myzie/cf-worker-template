@@ -1,5 +1,4 @@
 name = "pgedge-cloudflare-worker"
-account_id = ""
 main = "index.ts"
 compatibility_date = "2023-05-15"
 node_compat = true
